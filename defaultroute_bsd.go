@@ -1,5 +1,5 @@
 // Copyright (c) Tailscale Inc & AUTHORS
-// Copyright (c) 2023 Erik Junsved
+// Copyright (c) Erik Junsved
 // SPDX-License-Identifier: BSD-3-Clause
 
 // Common code for FreeBSD and Darwin. This might also work on other

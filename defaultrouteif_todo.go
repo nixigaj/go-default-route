@@ -1,8 +1,8 @@
 // Copyright (c) Tailscale Inc & AUTHORS
-// Copyright (c) 2023 Erik Junsved
+// Copyright (c) Erik Junsved
 // SPDX-License-Identifier: BSD-3-Clause
 
-//go:build !linux && !windows && !darwin && !freebsd && !openbsd
+//go:build !linux && !windows && !darwin && !freebsd
 
 package defaultroute
 
